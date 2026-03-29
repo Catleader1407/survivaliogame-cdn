@@ -1,7 +1,7 @@
-System.register("chunks:///_virtual/icon",[],(function(){return{execute:function(){}}}));
+System.register("chunks:///common.js",[],(function(){return{execute:function(){}}}));
 
 (function(r) {
-  r('virtual:///prerequisite-imports/icon', 'chunks:///_virtual/icon'); 
+  r('virtual:///prerequisite-imports/common', 'chunks:///common.js'); 
 })(function(mid, cid) {
     System.register(mid, [cid], function (_export, _context) {
     return {

@@ -1,7 +1,7 @@
-System.register("chunks:///_virtual/monster",[],(function(){return{execute:function(){}}}));
+System.register("chunks:///wwqVec.js",[],(function(){return{execute:function(){}}}));
 
 (function(r) {
-  r('virtual:///prerequisite-imports/monster', 'chunks:///_virtual/monster'); 
+  r('virtual:///prerequisite-imports/wwqVec', 'chunks:///wwqVec.js'); 
 })(function(mid, cid) {
     System.register(mid, [cid], function (_export, _context) {
     return {

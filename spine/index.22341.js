@@ -1,7 +1,7 @@
-System.register("chunks:///_virtual/prefab",[],(function(){return{execute:function(){}}}));
+System.register("chunks:///spine.js",[],(function(){return{execute:function(){}}}));
 
 (function(r) {
-  r('virtual:///prerequisite-imports/prefab', 'chunks:///_virtual/prefab'); 
+  r('virtual:///prerequisite-imports/spine', 'chunks:///spine.js'); 
 })(function(mid, cid) {
     System.register(mid, [cid], function (_export, _context) {
     return {

@@ -1,7 +1,7 @@
-System.register("chunks:///_virtual/wwqVec",[],(function(){return{execute:function(){}}}));
+System.register("chunks:///weapon.js",[],(function(){return{execute:function(){}}}));
 
 (function(r) {
-  r('virtual:///prerequisite-imports/wwqVec', 'chunks:///_virtual/wwqVec'); 
+  r('virtual:///prerequisite-imports/weapon', 'chunks:///weapon.js'); 
 })(function(mid, cid) {
     System.register(mid, [cid], function (_export, _context) {
     return {

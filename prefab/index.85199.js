@@ -1,7 +1,7 @@
-System.register("chunks:///_virtual/audio",[],(function(){return{execute:function(){}}}));
+System.register("chunks:///prefab.js",[],(function(){return{execute:function(){}}}));
 
 (function(r) {
-  r('virtual:///prerequisite-imports/audio', 'chunks:///_virtual/audio'); 
+  r('virtual:///prerequisite-imports/prefab', 'chunks:///prefab.js'); 
 })(function(mid, cid) {
     System.register(mid, [cid], function (_export, _context) {
     return {

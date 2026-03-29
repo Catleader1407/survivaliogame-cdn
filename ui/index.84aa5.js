@@ -1,7 +1,7 @@
-System.register("chunks:///_virtual/common",[],(function(){return{execute:function(){}}}));
+System.register("chunks:///ui.js",[],(function(){return{execute:function(){}}}));
 
 (function(r) {
-  r('virtual:///prerequisite-imports/common', 'chunks:///_virtual/common'); 
+  r('virtual:///prerequisite-imports/ui', 'chunks:///ui.js'); 
 })(function(mid, cid) {
     System.register(mid, [cid], function (_export, _context) {
     return {

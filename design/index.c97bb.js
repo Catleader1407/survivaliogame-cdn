@@ -1,7 +1,7 @@
-System.register("chunks:///_virtual/hint",[],(function(){return{execute:function(){}}}));
+System.register("chunks:///design.js",[],(function(){return{execute:function(){}}}));
 
 (function(r) {
-  r('virtual:///prerequisite-imports/hint', 'chunks:///_virtual/hint'); 
+  r('virtual:///prerequisite-imports/design', 'chunks:///design.js'); 
 })(function(mid, cid) {
     System.register(mid, [cid], function (_export, _context) {
     return {

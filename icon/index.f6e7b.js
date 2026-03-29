@@ -1,7 +1,7 @@
-System.register("chunks:///_virtual/layer",[],(function(){return{execute:function(){}}}));
+System.register("chunks:///icon.js",[],(function(){return{execute:function(){}}}));
 
 (function(r) {
-  r('virtual:///prerequisite-imports/layer', 'chunks:///_virtual/layer'); 
+  r('virtual:///prerequisite-imports/icon', 'chunks:///icon.js'); 
 })(function(mid, cid) {
     System.register(mid, [cid], function (_export, _context) {
     return {

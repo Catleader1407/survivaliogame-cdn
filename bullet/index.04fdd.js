@@ -1,7 +1,7 @@
-System.register("chunks:///_virtual/ui",[],(function(){return{execute:function(){}}}));
+System.register("chunks:///bullet.js",[],(function(){return{execute:function(){}}}));
 
 (function(r) {
-  r('virtual:///prerequisite-imports/ui', 'chunks:///_virtual/ui'); 
+  r('virtual:///prerequisite-imports/bullet', 'chunks:///bullet.js'); 
 })(function(mid, cid) {
     System.register(mid, [cid], function (_export, _context) {
     return {

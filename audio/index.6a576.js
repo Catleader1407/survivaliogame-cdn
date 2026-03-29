@@ -1,7 +1,7 @@
-System.register("chunks:///_virtual/bullet",[],(function(){return{execute:function(){}}}));
+System.register("chunks:///audio.js",[],(function(){return{execute:function(){}}}));
 
 (function(r) {
-  r('virtual:///prerequisite-imports/bullet', 'chunks:///_virtual/bullet'); 
+  r('virtual:///prerequisite-imports/audio', 'chunks:///audio.js'); 
 })(function(mid, cid) {
     System.register(mid, [cid], function (_export, _context) {
     return {
