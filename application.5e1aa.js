@@ -28,6 +28,7 @@ System.register([], function (_export, _context) {
           key: "onPostInitBase",
           value: function onPostInitBase() {
             cc.settings.overrideSettings('assets', 'server', 'https://catleader1407.github.io/survivaliogame-cdn/');
+            cc.AssetManager.BuiltinBundleName.INTERNAL = 'https://catleader1407.github.io/survivaliogame-cdn/' + 'assets/internal';
             // do custom logic
           }
         }, {
