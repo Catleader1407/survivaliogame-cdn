@@ -1,0 +1,90 @@
+
+effect_suonike.png
+size: 610,680
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+quan_2
+  rotate: false
+  xy: 2, 442
+  size: 236, 236
+  orig: 242, 242
+  offset: 3, 3
+  index: -1
+quan_3
+  rotate: false
+  xy: 240, 463
+  size: 215, 215
+  orig: 215, 215
+  offset: 0, 0
+  index: -1
+quan_q0
+  rotate: false
+  xy: 399, 20
+  size: 138, 89
+  orig: 138, 90
+  offset: 0, 1
+  index: -1
+quan_q1
+  rotate: false
+  xy: 212, 17
+  size: 185, 131
+  orig: 185, 131
+  offset: 0, 0
+  index: -1
+quan_q2
+  rotate: false
+  xy: 413, 111
+  size: 195, 140
+  orig: 195, 140
+  offset: 0, 0
+  index: -1
+quan_q3
+  rotate: false
+  xy: 240, 292
+  size: 209, 169
+  orig: 209, 169
+  offset: 0, 0
+  index: -1
+quan_q4
+  rotate: false
+  xy: 2, 137
+  size: 208, 157
+  orig: 208, 157
+  offset: 0, 0
+  index: -1
+quan_q5
+  rotate: true
+  xy: 457, 253
+  size: 213, 145
+  orig: 213, 145
+  offset: 0, 0
+  index: -1
+quan_q6
+  rotate: true
+  xy: 457, 468
+  size: 210, 146
+  orig: 210, 146
+  offset: 0, 0
+  index: -1
+quan_q7
+  rotate: false
+  xy: 2, 296
+  size: 209, 144
+  orig: 209, 144
+  offset: 0, 0
+  index: -1
+quan_q8
+  rotate: false
+  xy: 212, 150
+  size: 199, 140
+  orig: 199, 140
+  offset: 0, 0
+  index: -1
+quan_q9
+  rotate: false
+  xy: 2, 2
+  size: 177, 133
+  orig: 178, 133
+  offset: 1, 0
+  index: -1
